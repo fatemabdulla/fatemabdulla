@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Fatema</h1>
-<h3 align="center">An ICT Networking student at Bahrain Polytechnic</h3>
+<h3 align="center">An ICT Networking student at Bahrain Polytechnic and full-stack developer at Reboot01</h3>
 
 - 🌱 I’m currently learning **swift**
 
